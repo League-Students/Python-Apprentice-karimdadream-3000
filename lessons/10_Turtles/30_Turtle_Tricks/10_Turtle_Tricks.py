@@ -9,7 +9,15 @@ In this exercise, you will use Tina the Turtle to draw an equilateral triangle.
 Refer to previous turtle programs for examples of how to use these commands.
 """
 
-tina = turtle.Turtle()                             # Create a turtle named tina
+# These lines are needed in most turtle programs
+import turtle                           # Tell Python we want to work with the turtle
+turtle.setup(600, 600, 0, 0)            # Set the size of the window
+tina = turtle.Turtle()                  # Create a turtle named tina
 
-# Usw tina.forward() and tina. left() to draw a t
+# Use tina.forward() and tina.left() to draw a triangle
+# Make each side of the triangle a different color with 
+# tina.pencolor()
 
+tina.color(red) 
+
+turtle.exitonclick()                    # Close the window when we click on it

@@ -11,5 +11,5 @@ Refer to previous turtle programs for examples of how to use these commands.
 
 tina = turtle.Turtle()                             # Create a turtle named tina
 
-# Usw tina.forward() and tina. left() to draw 
+# Usw tina.forward() and tina. left() to draw a t
 

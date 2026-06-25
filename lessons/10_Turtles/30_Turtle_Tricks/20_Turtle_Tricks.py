@@ -20,7 +20,7 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 
 tina.color('green') 
 tina.forward(150)
-tina.left (120)
+tina.left ()
 
 tina.color('red') 
 tina.forward(150)

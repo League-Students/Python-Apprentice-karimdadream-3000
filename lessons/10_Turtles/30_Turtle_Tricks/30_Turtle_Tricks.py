@@ -24,6 +24,7 @@ tina.forward(150)
 tina.left (360)
 
 
+
 turtle.exitonclick()                    # Close the window when we click on it
 
 # Save your progress by checking in your code.

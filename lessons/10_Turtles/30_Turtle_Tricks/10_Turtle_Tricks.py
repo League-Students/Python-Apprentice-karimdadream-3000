@@ -9,4 +9,7 @@ In this exercise, you will use Tina the Turtle to draw an equilateral triangle.
 Refer to previous turtle programs for examples of how to use these commands.
 """
 
-tina = turtle
+tina = turtle.Turtle()                              # Create a turtle named tina
+
+#
+

@@ -26,15 +26,15 @@ tina.color('red')
 tina.forward(150)
 tina.left (360/5)
 
-tina.color('green') 
+tina.color('blue') 
 tina.forward(150)
 tina.left (360/5)
 
-tina.color('green') 
+tina.color('purple') 
 tina.forward(150)
 tina.left (360/5)
 
-tina.color('green') 
+tina.color('pink') 
 tina.forward(150)
 tina.left (360/5)
 

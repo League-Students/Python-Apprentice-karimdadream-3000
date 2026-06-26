@@ -24,7 +24,7 @@ def draw_polygon('3'):
         200                              # Move tina forward by the forward distance
         60                             # Turn tina left by the left turn
 
-draw_polygon('')                        # Draw a square
+draw_polygon('3, 50, "red"')                        # Draw a square
 
 ...                                      # Move tina to another spot on the screen
 

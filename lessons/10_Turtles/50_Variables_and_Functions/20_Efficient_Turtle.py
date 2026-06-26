@@ -30,7 +30,7 @@ draw_polygon (3)                       # Draw a square
 
 draw_polygon(3)                        # Draw a pentagon
 
-tina.goto(0, -75)                                   # Move tina to another spot on the screen
+tina.goto(0, -75)                                    # Move tina to another spot on the screen
 
 draw_polygon(3)                        # Draw a hexagon
 

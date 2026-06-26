@@ -26,7 +26,7 @@ def draw_polygon('3'):
 
 draw_polygon('3, 50, "red"')                        # Draw a square
 
-...                                      # Move tina to another spot on the screen
+                                      # Move tina to another spot on the screen
 
 draw_polygon(3, 50, "blue")                        # Draw a pentagon
 

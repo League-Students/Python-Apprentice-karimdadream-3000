@@ -18,7 +18,7 @@ tina.speed(2)                            # Move at a moderate speed, not too fas
 
 def draw_polygon(sides):
 
-    angle = '3'                          # Calculate angle from number of sides
+    angle = 360/sides                          # Calculate angle from number of sides
     
     for i in range(''):                 # Loop through the number of sides
         200                              # Move tina forward by the forward distance

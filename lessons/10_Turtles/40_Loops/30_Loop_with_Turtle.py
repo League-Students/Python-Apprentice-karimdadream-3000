@@ -22,7 +22,7 @@ tina.speed(2)                           # Move at a moderate speed, not too fast
  
 for i in range(6):
     tina.forward(200)
-    tina.left(360)
+    tina.left(360/6)
 
 
 turtle.exitonclick()                    

@@ -20,6 +20,6 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 tina.shape('turtle')                    # Set the shape of the turtle to a turtle
 tina.speed(2)                           # Move at a moderate speed, not too fast.
 
-
+for 
 
 turtle.exitonclick()                    # Close the window when we click on it

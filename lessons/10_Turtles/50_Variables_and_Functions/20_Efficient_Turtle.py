@@ -20,8 +20,8 @@ def draw_polygon(sides):
                       # Calculate angle from number of sides
     
     for i in range(3):                 # Loop through the number of sides
-        ...                              # Move tina forward by the forward distance
-        ...                              # Turn tina left by the left turn
+                                   # Move tina forward e
+                                    # Turn tina left by the left turn
 
 draw_polygon(3, 50, "red")      # Draw a red triangle
 move_tina(100, 0)               # Move to a new spot

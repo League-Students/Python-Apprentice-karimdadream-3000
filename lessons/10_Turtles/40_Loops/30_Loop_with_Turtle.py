@@ -19,8 +19,12 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 
 tina.shape('turtle')                    # Set the shape of the turtle to a turtle
 tina.speed(2)                           # Move at a moderate speed, not too fast.
+ 
+for i in range(5):
+    tina.forward(200)
+    tina.right(90)
 
-tina.color('green') 
+tina.color('green')
 tina.forward(150)
 tina.left (360/5)
 

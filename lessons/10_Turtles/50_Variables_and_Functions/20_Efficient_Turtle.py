@@ -17,9 +17,9 @@ tina.shape('turtle')                     # Set the shape of the turtle to a turt
 tina.speed(2)                            # Move at a moderate speed, not too fast.
 
 def draw_polygon(4):
- angle = 360 / sides                       # Calculate angle from number of s
+ angle = 360 / 4                      # Calculate angle from 
     
-    for i in range(...):                 # Loop through the number of sides
+    for i in range(.200..):                 # Loop through the number of sides
         ...                              # Move tina forward by the forward distance
         ...                              # Turn tina left by the left turn
 

@@ -22,25 +22,7 @@ tina.speed(2)                           # Move at a moderate speed, not too fast
  
 for i in range(5):
     tina.forward(200)
-    tina.right(90)
+    tina.right(360/5)
 
-tina.color('green')
-tina.forward(150)
-tina.left (360/5)
 
-tina.color('red') 
-tina.forward(150)
-tina.left (360/5)
-
-tina.color('blue') 
-tina.forward(150)
-tina.left (360/5)
-
-tina.color('purple') 
-tina.forward(150)
-tina.left (360/5)
-
-tina.color('pink') 
-tina.forward(150)
-tina.left (360/5)
 turtle.exitonclick()                    

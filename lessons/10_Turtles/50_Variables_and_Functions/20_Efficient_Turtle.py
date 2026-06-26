@@ -28,10 +28,10 @@ draw_polygon (3)                       # Draw a square
 
                                       # Move tina to another spot on the screen
 
-draw_polygon(3, 50, "blue")                        # Draw a pentagon
+draw_polygon(3)                        # Draw a pentagon
 
 tina.goto(0, -75)                                   # Move tina to another spot on the screen
 
-draw_polygon(3, 50, "green")                        # Draw a hexagon
+draw_polygon(3)                        # Draw a hexagon
 
 turtle.exitonclick()                     # Close the window when we click on it

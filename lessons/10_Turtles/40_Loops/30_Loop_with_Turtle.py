@@ -20,5 +20,22 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 tina.shape('turtle')                    # Set the shape of the turtle to a turtle
 tina.speed(2)                           # Move at a moderate speed, not too fast.
 
+tina.color('green') 
+tina.forward(150)
+tina.left (360/5)
 
-... # Your code here
+tina.color('red') 
+tina.forward(150)
+tina.left (360/5)
+
+tina.color('blue') 
+tina.forward(150)
+tina.left (360/5)
+
+tina.color('purple') 
+tina.forward(150)
+tina.left (360/5)
+
+tina.color('pink') 
+tina.forward(150)
+tina.left (360/5)
